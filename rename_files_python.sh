@@ -10,7 +10,7 @@ os.chdir("/Volumes/DANIEL/MCIP-wang/MCIP0001/MCIP0001_pre/DTI_3")
 
 
 #Set number values for ordering purposes of files
-i = 1152
+i = 1
 #print list files in working directory
 print(os.listdir("/Volumes/DANIEL/MCIP-wang/MCIP0001/MCIP0001_pre/DTI_3"))
 
